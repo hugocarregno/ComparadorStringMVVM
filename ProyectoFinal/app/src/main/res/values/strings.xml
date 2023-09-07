@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+    <string name="las_cadenas_son_iguales">Las cadenas son iguales.</string>
+    <string name="las_cadenas_son_diferentes">Las cadenas son diferentes.</string>
+</resources>
